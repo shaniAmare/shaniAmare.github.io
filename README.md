@@ -1,3 +1,3 @@
 Source for personal website
 
-Inspired by https://github.com/shazanfar/shazanfar.github.io
+Powered by Hugo themes (Source Themes Academic 3.1.0)
